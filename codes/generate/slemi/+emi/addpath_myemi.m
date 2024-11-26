@@ -1,0 +1,1 @@
+addpath(genpath('F:\Desktop\gen\slemi'))
