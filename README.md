@@ -32,6 +32,4 @@ To install Lin-Hunter, follow these steps:
 
 ```bash
 git clone https://github.com/your-repo/lin-hunter.git
-cd lin-hunter
-# Add further installation instructions here
-# Lin-Hunter
+
